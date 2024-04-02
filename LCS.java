@@ -1,9 +1,3 @@
-/* Iliya Klishin
- * Dr. Steinberg
- * COP 3503 Summer 2022
- * Programming Assignment 3
- */
- 
  import java.util.Arrays;
  
  public class LCS
